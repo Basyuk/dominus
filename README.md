@@ -6,9 +6,9 @@
 ![GitHub Issues](https://img.shields.io/github/issues/Basyuk/dominus)
 ![GitHub Stars](https://img.shields.io/github/stars/Basyuk/dominus)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-🌐-green)](https://dominus.odinone.top)
-[![Crypto Donate](https://img.shields.io/badge/Crypto%20Donations-₿-f7931a)](https://nowpayments.io/donation/dominus-project)
+[![Crypto Donate](https://img.shields.io/badge/Crypto%20Donations-₿-f7931a)](https://nowpayments.io/donation/dominus)
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-₿-FF9900)](bitcoin:bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh)
-[![Ethereum](https://img.shields.io/badge/Ethereum-⟠-627EEA)](https://nowpayments.io/donation/dominus-project)
+[![Ethereum](https://img.shields.io/badge/Ethereum-⟠-627EEA)](https://nowpayments.io/donation/dominus)
 
 **Frontend management system** for controlling server priorities and roles across multiple backend services through a unified web interface.
 
@@ -660,7 +660,7 @@ If this project helps you, please consider:
 
 This project is developed and maintained in our free time. If **Dominus** has been useful for you, consider supporting its development with cryptocurrency:
 
-**₿ [Donate with Crypto →](https://nowpayments.io/donation/dominus-project)**
+**₿ [Donate with Crypto →](https://nowpayments.io/donation/dominus)**
 - **100+ cryptocurrencies** supported (Bitcoin, Ethereum, Dogecoin, and more)
 - **Credit card to crypto** option available  
 - **Anonymous donations** possible

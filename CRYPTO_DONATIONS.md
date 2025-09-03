@@ -6,7 +6,7 @@ We accept crypto donations through multiple methods to make it easy for you to s
 
 ## 🚀 Easy Method - NOWPayments
 
-**[Donate via NOWPayments →](https://nowpayments.io/donation/dominus-project)**
+**[Donate via NOWPayments →](https://nowpayments.io/donation/dominus)**
 
 - 🎯 **100+ cryptocurrencies** supported
 - 💳 **Credit card to crypto** option available

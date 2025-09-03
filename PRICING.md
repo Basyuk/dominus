@@ -123,9 +123,9 @@ Not ready to donate crypto? You can still help:
 
 **Ready to support with crypto?** Choose your preferred method:
 
-[![Crypto Donations](https://img.shields.io/badge/Crypto%20Donations-₿-f7931a)](https://nowpayments.io/donation/dominus-project)
+[![Crypto Donations](https://img.shields.io/badge/Crypto%20Donations-₿-f7931a)](https://nowpayments.io/donation/dominus)
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-₿-FF9900)](bitcoin:bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh)
-[![Ethereum](https://img.shields.io/badge/Ethereum-⟠-627EEA)](https://nowpayments.io/donation/dominus-project)
+[![Ethereum](https://img.shields.io/badge/Ethereum-⟠-627EEA)](https://nowpayments.io/donation/dominus)
 [![All Wallets](https://img.shields.io/badge/All%20Wallets-📋-blue)](CRYPTO_DONATIONS.md)
 
 **Thank you for considering supporting Dominus with cryptocurrency!** ₿💙

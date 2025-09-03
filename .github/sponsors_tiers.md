@@ -43,7 +43,7 @@ We've chosen cryptocurrency as our sole donation method because:
 ## 🚀 Easy Donation Methods
 
 ### **NOWPayments Platform**
-**[₿ Donate Now →](https://nowpayments.io/donation/dominus-project)**
+**[₿ Donate Now →](https://nowpayments.io/donation/dominus)**
 - **100+ cryptocurrencies** supported
 - **Credit card to crypto** conversion available
 - **Email confirmation** of donations
@@ -133,7 +133,7 @@ Your cryptocurrency donations directly fund:
 
 **Ready to support Dominus with cryptocurrency?**
 
-[![Crypto Donations](https://img.shields.io/badge/Crypto%20Donations-₿-f7931a)](https://nowpayments.io/donation/dominus-project)
+[![Crypto Donations](https://img.shields.io/badge/Crypto%20Donations-₿-f7931a)](https://nowpayments.io/donation/dominus)
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-₿-FF9900)](bitcoin:bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh)
 [![All Wallets](https://img.shields.io/badge/All%20Wallets-📋-blue)](../CRYPTO_DONATIONS.md)
 
