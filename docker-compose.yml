@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  app:
+    build: .
+    env_file:
+      - ./backend/.env
+    volumes:
+      - ./backend/settings.yml:/app/backend/settings.yml
+      - ./backend/local-users.yml:/app/backend/local-users.yml
+    ports:
+      - "3001:3001" 

@@ -1,0 +1,14 @@
+# Example file with local users
+# Copy this file to local-users.yml and configure users
+
+# Administrator
+admin: admin-password
+
+# Operator
+operator: operator-password
+
+# Monitoring
+monitor: monitor-password
+
+# Test user
+test: test-password 

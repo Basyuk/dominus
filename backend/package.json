@@ -1,0 +1,30 @@
+{
+  "name": "infra-backend",
+  "version": "1.0.0",
+  "description": "Backend for service monitoring",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test-keycloak": "node tests/test-keycloak.js",
+    "test-local": "node tests/test-local-auth.js",
+    "test-refresh": "node tests/test-token-refresh.js",
+    "test-logout": "node tests/test-token-logout.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^4.19.2",
+    "js-yaml": "^4.1.0",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  },
+  "overrides": {
+    "cross-spawn": "^7.0.5"
+  }
+} 
