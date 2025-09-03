@@ -690,7 +690,7 @@ Configure once in `settings.yml` → Control all your services from one interfac
 
 If Dominus helped you manage your infrastructure better, consider:
 - ⭐ **Starring this repo**
-- ₿ **[Crypto donation](https://nowpayments.io/donation/dominus-project)**
+- ₿ **[Crypto donation](https://nowpayments.io/donation/dominus)**
 - 📋 **[Direct wallet donation](CRYPTO_DONATIONS.md)**
 - 📢 **Sharing with others**
 
