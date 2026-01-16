@@ -16,7 +16,7 @@
 
 **Try Dominus in action!** 🚀
 
-**Demo URL:** [https://dominus.odinone.top](https://dominus.odinone.top)
+**Demo URL:** [https://dominus.odinone.icu](https://dominus.odinone.icu)
 
 **Login credentials:**
 - **Username:** `admin`
